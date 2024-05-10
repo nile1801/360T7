@@ -18,7 +18,7 @@ env:
   CONFIG_FILE: ./doc/config/360T7-hanwckf-mini.config
   DIY_P1_SH: ./doc/diy/diy-360T7-hanwckf-1.sh
   DIY_P2_SH: ./doc/diy/diy-360T7-hanwckf-2.sh
-  TZ: Asia/Shanghai
+  TZ: Asia/Ho_Chi_Minh
   
 jobs:
   build:
